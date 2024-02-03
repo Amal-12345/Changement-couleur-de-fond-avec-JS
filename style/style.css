@@ -1,0 +1,22 @@
+.box {
+    border: 4mm ridge rgba(190, 168, 118, 0.6);
+    width: 26%;
+    height: 180px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15% 38%;
+    font-size: 20px;
+    background-color: white;
+}
+
+.label {
+font-size: 25px;
+align-items: center;
+}
+
+.input {
+    padding: 5px 5px 5px 5px;
+
+}
